@@ -1,0 +1,6 @@
+dataset/test/images/*.jpg filter=lfs diff=lfs merge=lfs -text
+dataset/test/labels/*.txt filter=lfs diff=lfs merge=lfs -text
+dataset/train/images/*.jpg filter=lfs diff=lfs merge=lfs -text
+dataset/train/labels/*.txt filter=lfs diff=lfs merge=lfs -text
+dataset/val/images/*.jpg filter=lfs diff=lfs merge=lfs -text
+dataset/val/labels/*.txt filter=lfs diff=lfs merge=lfs -text

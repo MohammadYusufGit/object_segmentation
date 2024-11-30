@@ -1,0 +1,12 @@
+train: E:/Detection/classification/For_segmentation_dataset/dataset/train/images
+val: E:/Detection/classification/For_segmentation_dataset/dataset/val/images
+test: E:/Detection/classification/For_segmentation_dataset/dataset/test/images
+
+nc: 5
+
+names:
+  0: Cat
+  1: Car
+  2: Bottle
+  3: Boat
+  4: Apple
